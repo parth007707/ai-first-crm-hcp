@@ -1,0 +1,8 @@
+{
+  "name": "AI-First HCP CRM & QMS",
+  "description": "AI-powered Healthcare Professional CRM with Dual Form and Chat Interface, Compliance Validation, and Quality Management System (Deviations, CAPA, Complaints, Recalls).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
